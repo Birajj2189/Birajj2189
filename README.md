@@ -1,6 +1,4 @@
-<div align="center">
-  ![Black Minimalist Daily Quote LinkedIn Banner](https://github.com/user-attachments/assets/feae6474-9016-41d0-9075-0e5f4d6c4477)
-</div>
+![Black Minimalist Daily Quote LinkedIn Banner](https://github.com/user-attachments/assets/7efcecf9-01be-4ed6-83cf-e6242ca86854)
 
 ###
 
