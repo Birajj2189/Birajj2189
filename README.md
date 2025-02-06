@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1p2ms7-oChuPWrBBlUKsmvkO-J4uv4wnh/view?usp=drivesdk"  />
-</div>
+![Black Minimalist Daily Quote LinkedIn Banner](https://github.com/user-attachments/assets/7efcecf9-01be-4ed6-83cf-e6242ca86854)
 
 ###
 
